@@ -1,8 +1,8 @@
 # Get Swifty
 
-[Original post](http://asianbarbie.com/get-swifty/)
-
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/11/get_swifty_cover.jpg)
+
+[Original Post](http://asianbarbie.com/get-swifty/)
 
 **Swift has come a far way since it was first released in 2014.**
 
