@@ -2,6 +2,8 @@
 
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/11/get_swifty_cover.jpg)
 
+Blog series on the Swift 4 programming language. Originally appeared on my blog, [Asian Barbie](asianbarbie.com).
+
 [Original Post](http://asianbarbie.com/get-swifty/)
 
 **Swift has come a far way since it was first released in 2014.**
