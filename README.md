@@ -26,7 +26,7 @@ Instead of using Playgrounds to write and test our code, we’ll be working in t
 
 I’m not trained in education or anything — I’m literally just a kid who thinks Swift is cool and reads about pedagogy in her free time. Thus, I’ll most likely be re-organizing my content plan for this series as we progress along the course. Here are the basics of what I intend to cover:
 
-Variables and Constants
+[Variables and Constants](http://asianbarbie.com/swift-variables-constants/)
 
 Data Types
 
